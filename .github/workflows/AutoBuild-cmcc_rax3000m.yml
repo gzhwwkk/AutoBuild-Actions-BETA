@@ -7,7 +7,7 @@
 name: CMCC RAX3000M
 
 ### 界面控制部分 ( 以下内容请保持不变 )
-on:
+off:
   repository_dispatch:
   workflow_dispatch:
     inputs:
